@@ -2,4 +2,4 @@
 
 PERSONS=("viswa" "haritha" "Jathin")
 
-echo "First persion is: ${PERSONS[0]}"
+echo "First persion is: ${PERSONS[@]}"
