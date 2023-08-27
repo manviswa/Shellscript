@@ -2,4 +2,7 @@
 
 echo "Hello World"
 
-echo $?
+echo "Viswa: Hi Haritha, Good Morning"
+echo "Haritha: Hello Viswa, Good Morning"
+echo "Viswa: How are you Haritha?"
+echo "Haritha: Im fine Viswa, How are you?"
